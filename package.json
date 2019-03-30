@@ -1,29 +1,15 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.",
+  "description": "Restaurant App",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Danzer616/burger.git"
   },
-  "keywords": [
-    "burger",
-    "logger",
-    "with",
-    "MySQL",
-    "Node",
-    "Express",
-    "Handlebars",
-    "and",
-    "a",
-    "homemade",
-    "ORM"
-  ],
   "author": "Dan Alexander",
   "license": "ISC",
   "bugs": {
@@ -31,9 +17,10 @@
   },
   "homepage": "https://github.com/Danzer616/burger#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
     "express-handlebars": "^3.0.0",
-    "loader": "^2.1.1",
-    "mysql": "^2.16.0"
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0"
   }
 }
