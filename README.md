@@ -1,8 +1,8 @@
-# ![Eat-Da-Burger App](public/assets/img/burger.png) Eat-Da-Burger App 
+# ![Eat-Da-Burger App]
 U of U homework assignemt week 14 to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Being sure to follow the MVC design pattern; use Node and MySQL to query and route data in the app, and use Handlebars to generate your HTML.
 
 
-# ![Eat-Da-Burger App](public/assets/img/etba.jpg)
+
 
 ### How The App Should Work
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
